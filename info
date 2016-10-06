@@ -1,0 +1,7 @@
+express
+npm install cpu-load
+npm install battery-level
+npm install is-charging
+
+npm i systeminformation
+npm install asnyc

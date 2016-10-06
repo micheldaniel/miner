@@ -1,0 +1,9 @@
+{
+    "name": "miner",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "main": "main.js",
+    "author": "michel",
+    "contributors": [],
+    "dependencies": {}
+}
